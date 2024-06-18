@@ -1,0 +1,13 @@
+Target element: {numericId=70, id='', name='new_category', class='', xpath='/html[1]/body[1]/div[4]/form[1]/table[1]/tbody[1]/tr[2]/td[2]/input[1]', text='Category1', tagName='input', linkText='', x=363, y=278, width=261, height=21, isLeaf=true}
+Candidate elements: {numericId=70, id='', name='name', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[2]/td[2]/input[1]', text='Category1', tagName='input', linkText='', x=403, y=295, width=261, height=21, isLeaf=true}
+{numericId=80, id='', name='', class='button', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[4]/td[2]/input[1]', text='Update Category', tagName='input', linkText='', x=403, y=353, width=117, height=21, isLeaf=true}
+{numericId=74, id='', name='assigned_to', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[3]/td[2]/select[1]', text='administrator', tagName='select', linkText='', x=403, y=325, width=102, height=19, isLeaf=true}
+{numericId=67, id='', name='', class='category', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[2]/td[1]', text='Category', tagName='td', linkText='', x=263, y=291, width=135, height=29, isLeaf=true}
+{numericId=69, id='', name='', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[2]/td[2]', text='', tagName='td', linkText='', x=399, y=291, width=370, height=29, isLeaf=false}
+{numericId=65, id='', name='', class='form-title', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[1]/td[1]', text='Edit Project Category', tagName='td', linkText='', x=263, y=266, width=506, height=24, isLeaf=true}
+{numericId=72, id='', name='', class='category', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[3]/td[1]', text='Assigned To', tagName='td', linkText='', x=263, y=321, width=135, height=27, isLeaf=true}
+{numericId=73, id='', name='', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[3]/td[2]', text='administrator', tagName='td', linkText='', x=399, y=321, width=370, height=27, isLeaf=false}
+{numericId=78, id='', name='', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[4]/td[1]', text='', tagName='td', linkText='', x=263, y=349, width=135, height=29, isLeaf=true}
+{numericId=79, id='', name='', class='button', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[4]/td[2]', text='', tagName='td', linkText='', x=399, y=349, width=370, height=29, isLeaf=false}
+
+Time: 0.949

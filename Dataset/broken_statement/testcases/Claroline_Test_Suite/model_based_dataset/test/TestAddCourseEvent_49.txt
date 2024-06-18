@@ -1,0 +1,2 @@
+Assert.assertEquals(driver.findElement(By.xpath("//*[@id=\"courseRightContent\"]/div[2]/div")).getText(), //*[@id=\"courseRightContent\"]/div[2]/div")).getText(),
+"Event added to the agenda.");

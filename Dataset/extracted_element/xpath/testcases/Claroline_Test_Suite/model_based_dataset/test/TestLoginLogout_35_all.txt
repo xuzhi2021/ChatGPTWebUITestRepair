@@ -1,0 +1,13 @@
+Target element: {numericId=30, id='', name='', class='blockHeader', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/h3[1]', text='Authentication', tagName='h3', linkText='', x=694, y=134, width=220, height=20, isLeaf=true}
+Candidate elements: {numericId=39, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/p[1]', text='Lost password Create user account', tagName='p', linkText='', x=799, y=270, width=220, height=40, isLeaf=false}
+{numericId=24, id='', name='', class='header', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]', text='Authentication', tagName='div', linkText='', x=799, y=93, width=220, height=20, isLeaf=true}
+{numericId=13, id='', name='', class='breadCrumbs breadCrumbsNode lastBreadCrumbsNode', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/ul[1]', text='Claroline', tagName='ul', linkText='', x=15, y=61, width=65, height=15, isLeaf=false}
+{numericId=26, id='', name='', class='claroLoginForm', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/form[1]', text='User name Password', tagName='form', linkText='', x=799, y=123, width=220, height=132, isLeaf=false}
+{numericId=55, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[1]', text='Lin Dan', tagName='a', linkText='Lin Dan', x=975, y=353, width=44, height=14, isLeaf=true}
+{numericId=59, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/a[1]', text='Claroline', tagName='a', linkText='Claroline', x=485, y=381, width=51, height=14, isLeaf=true}
+{numericId=5, id='siteName', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/span[1]', text='Claroline', tagName='span', linkText='', x=15, y=24, width=129, height=17, isLeaf=false}
+{numericId=18, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/a[1]', text='Login', tagName='a', linkText='Login', x=988, y=61, width=31, height=15, isLeaf=true}
+{numericId=23, id='loginBox', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]', text='Authentication User name Password Lost password Create user account', tagName='div', linkText='', x=799, y=93, width=220, height=217, isLeaf=false}
+{numericId=40, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/p[1]/a[1]', text='Lost password', tagName='a', linkText='Lost password', x=804, y=275, width=83, height=15, isLeaf=true}
+
+Time: 21.734

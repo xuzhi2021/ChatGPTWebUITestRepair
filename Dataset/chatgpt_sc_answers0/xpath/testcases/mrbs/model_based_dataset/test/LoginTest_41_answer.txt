@@ -1,0 +1,4 @@
+The most similar element's numericId: 112. Because they share the most similar attributes: xpath, tagName, text, x, y, width, height, isLeaf.
+Selected element: `<input type="submit" name="submit" value="Submit">`
+
+Repaired statement: `driver.findElement(By.xpath("//input[@name='submit']")).click();`

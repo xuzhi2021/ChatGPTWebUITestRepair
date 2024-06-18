@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("//a[@href='manage_proj_page.php']")).click();

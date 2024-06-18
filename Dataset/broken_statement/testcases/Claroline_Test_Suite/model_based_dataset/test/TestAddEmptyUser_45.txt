@@ -1,0 +1,1 @@
+Assert.assertEquals(driver.findElement(By.xpath("//*[@id=\"claroBody\"]/div[2]/div[1]")).getText(), "You left some required fields empty");

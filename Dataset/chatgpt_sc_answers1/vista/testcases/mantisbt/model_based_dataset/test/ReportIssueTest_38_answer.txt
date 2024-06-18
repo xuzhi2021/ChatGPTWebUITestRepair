@@ -1,0 +1,13 @@
+The most similar element's numericId: 87. Because they share the most similar attributes: xpath, text, tagName, location, size, isLeaf. 
+
+The xpath attribute of element 87 ("/html[1]/body[1]/div[2]/table[1]/tbody[1]/tr[3]/td[2]") is the most similar to the target element's xpath ("/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[4]"). 
+
+The text attribute of element 87 ("") is the most similar to the target element's text ("Report Issue"). 
+
+The tagName attribute of element 87 ("td") is the most similar to the target element's tagName ("a"). 
+
+The location attribute of element 87 (x=519, y=261) is the most similar to the target element's location (x=223, y=152). 
+
+The size attribute of element 87 (width=506, height=36) is the most similar to the target element's size (width=85, height=16). 
+
+The isLeaf attribute of element 87 (true) is the most similar to the target element's isLeaf (true).

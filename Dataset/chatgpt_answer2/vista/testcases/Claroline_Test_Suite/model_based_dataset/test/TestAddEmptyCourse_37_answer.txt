@@ -1,0 +1,8 @@
+The most similar element's numericId: 38. Because they share the most similar attributes: class, xpath, text, tagName, x, y, width, height, and isLeaf.
+Repaired statement:
+
+String message2 = driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/span[2]")).getText();
+
+Explanation:
+
+Since the selected element has a similar xpath to the target element, we can replace the xpath in the original statement with the xpath of the selected element.

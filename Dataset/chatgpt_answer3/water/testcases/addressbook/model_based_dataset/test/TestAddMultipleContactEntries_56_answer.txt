@@ -1,0 +1,2 @@
+The most similar element's numericId: 146. Because they share the most similar attributes: xpath, text, tagName.
+Repaired statement: driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[4]/form[1]/input[11]")).sendKeys(list.get(i).getYear());

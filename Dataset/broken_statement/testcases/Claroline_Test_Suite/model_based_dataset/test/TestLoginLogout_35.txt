@@ -1,0 +1,1 @@
+Assert.assertTrue(driver.findElement(By.xpath("//*[@id=\"loginBox\"]/h3")).getText().equals("Authentication"));

@@ -1,0 +1,6 @@
+The most similar element's numericId: 68. Because they share the most similar attributes: class, xpath, text.
+Repaired statement: Assert.assertEquals(driver.findElement(By.xpath("/html/body/div/div[2]/div/div[1]/div[1]")).getText(), "Exercise added");
+
+Explanation:
+- Updated the XPath locator to match the selected element: "/html/body/div/div[2]/div/div[1]/div[1]"
+- Updated the expected text to "Exercise added"

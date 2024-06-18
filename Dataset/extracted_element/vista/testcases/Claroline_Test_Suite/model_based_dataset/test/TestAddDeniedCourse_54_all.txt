@@ -1,0 +1,13 @@
+Target element: {numericId=52, id='', name='', class='claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]', text='You have just created the course website : 225', tagName='div', linkText='', x=30, y=179, width=798, height=18, isLeaf=false}
+Candidate elements: {numericId=35, id='', name='', class='claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]', text='You have just created the course website : 225', tagName='div', linkText='', x=40, y=158, width=893, height=18, isLeaf=false}
+{numericId=33, id='', name='', class='claroToolTitle', xpath='/html[1]/body[1]/div[1]/div[2]/h3[1]', text='Create a course website', tagName='h3', linkText='', x=15, y=127, width=1004, height=15, isLeaf=true}
+{numericId=32, id='claroBody', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]', text='Create a course website You have just created the course website : 225 Continue', tagName='div', linkText='', x=0, y=97, width=1034, height=143, isLeaf=false}
+{numericId=40, id='campusFooter', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]', text='Administrator for Claroline : Lin Dan Phone : 7788814476 Powered by Claroline © 2001 - 2011', tagName='div', linkText='', x=0, y=240, width=1034, height=72, isLeaf=false}
+{numericId=22, id='breadcrumbLine', name='', class='breadcrumbTrails spacer', xpath='/html[1]/body[1]/div[1]/div[1]/div[3]', text='Claroline', tagName='div', linkText='', x=0, y=78, width=1034, height=19, isLeaf=false}
+{numericId=10, id='userBanner', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]', text='Lin Dan : My desktop | My User Account | My messages | Platform administration Logout', tagName='div', linkText='', x=0, y=59, width=1034, height=19, isLeaf=false}
+{numericId=17, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/span[2]/a[4]', text='Platform administration', tagName='a', linkText='Platform administration', x=347, y=61, width=131, height=15, isLeaf=true}
+{numericId=37, id='', name='', class=' claroCmd', xpath='/html[1]/body[1]/div[1]/div[2]/p[1]', text='Continue', tagName='p', linkText='', x=15, y=197, width=1004, height=15, isLeaf=false}
+{numericId=34, id='', name='', class='claroDialogBox boxSuccess claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]', text='You have just created the course website : 225', tagName='div', linkText='', x=15, y=152, width=1004, height=30, isLeaf=false}
+{numericId=48, id='poweredBy', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]', text='Powered by Claroline © 2001 - 2011', tagName='div', linkText='', x=15, y=283, width=1004, height=14, isLeaf=false}
+
+Time: 12.214

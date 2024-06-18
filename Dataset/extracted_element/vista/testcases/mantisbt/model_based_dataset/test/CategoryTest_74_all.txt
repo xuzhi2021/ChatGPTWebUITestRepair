@@ -1,0 +1,13 @@
+Target element: {numericId=35, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[9]', text='Manage', tagName='a', linkText='Manage', x=651, y=152, width=52, height=16, isLeaf=true}
+Candidate elements: {numericId=126, id='', name='', class='', xpath='/html[1]/body[1]/div[5]/table[1]/tbody[1]/tr[3]/td[1]', text='Subject1 Subject2 SubProject SubProject001', tagName='td', linkText='', x=133, y=719, width=748, height=29, isLeaf=false}
+{numericId=89, id='', name='view_state', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[6]/td[2]/select[1]', text='publicprivate', tagName='select', linkText='', x=325, y=418, width=65, height=19, isLeaf=true}
+{numericId=88, id='', name='', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[6]/td[2]', text='publicprivate', tagName='td', linkText='', x=321, y=414, width=560, height=27, isLeaf=false}
+{numericId=102, id='', name='', class='button', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[9]/td[2]', text='', tagName='td', linkText='', x=321, y=562, width=560, height=29, isLeaf=false}
+{numericId=97, id='', name='', class='category', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[8]/td[1]', text='Description', tagName='td', linkText='', x=133, y=472, width=187, height=89, isLeaf=true}
+{numericId=87, id='', name='', class='category', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[6]/td[1]', text='View Status', tagName='td', linkText='', x=133, y=414, width=187, height=27, isLeaf=true}
+{numericId=98, id='', name='', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[8]/td[2]', text='Description Description Description', tagName='td', linkText='', x=321, y=472, width=560, height=89, isLeaf=false}
+{numericId=150, id='', name='', class='', xpath='/html[1]/body[1]/div[6]/a[1]/table[1]/tbody[1]/tr[3]/td[2]', text='', tagName='td', linkText='', x=501, y=824, width=175, height=24, isLeaf=true}
+{numericId=151, id='', name='', class='center', xpath='/html[1]/body[1]/div[6]/a[1]/table[1]/tbody[1]/tr[3]/td[3]', text='', tagName='td', linkText='', x=677, y=824, width=205, height=24, isLeaf=true}
+{numericId=95, id='', name='file_path', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[7]/td[2]/input[1]', text='', tagName='input', linkText='', x=325, y=446, width=387, height=21, isLeaf=true}
+
+Time: 9.747

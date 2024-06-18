@@ -1,0 +1,1 @@
+driver.findElement(By.name("new_category")).clear();

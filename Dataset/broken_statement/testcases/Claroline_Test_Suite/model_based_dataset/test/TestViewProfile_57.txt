@@ -1,0 +1,1 @@
+Assert.assertTrue(driver.findElement(By.xpath("//*[@id=\"claroBody\"]/div[1]/span")).getText().equals("All profiles"));

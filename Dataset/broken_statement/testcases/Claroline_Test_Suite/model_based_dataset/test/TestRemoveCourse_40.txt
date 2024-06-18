@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("(//img[@alt='Delete'])[1]")).click();

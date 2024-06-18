@@ -1,0 +1,13 @@
+Target element: {numericId=39, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[11]', text='My Account', tagName='a', linkText='My Account', x=320, y=168, width=77, height=16, isLeaf=true}
+Candidate elements: {numericId=28, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[1]', text='Main', tagName='a', linkText='Main', x=51, y=156, width=31, height=16, isLeaf=true}
+{numericId=37, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[10]', text='Logout', tagName='a', linkText='Logout', x=776, y=156, width=46, height=16, isLeaf=true}
+{numericId=29, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[2]', text='My View', tagName='a', linkText='My View', x=98, y=156, width=55, height=16, isLeaf=true}
+{numericId=30, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[3]', text='View Issues', tagName='a', linkText='View Issues', x=169, y=156, width=79, height=16, isLeaf=true}
+{numericId=31, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[4]', text='Report Issue', tagName='a', linkText='Report Issue', x=263, y=156, width=85, height=16, isLeaf=true}
+{numericId=32, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[5]', text='Change Log', tagName='a', linkText='Change Log', x=364, y=156, width=79, height=16, isLeaf=true}
+{numericId=33, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[6]', text='Roadmap', tagName='a', linkText='Roadmap', x=458, y=156, width=63, height=16, isLeaf=true}
+{numericId=34, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[7]', text='Summary', tagName='a', linkText='Summary', x=536, y=156, width=65, height=16, isLeaf=true}
+{numericId=35, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[8]', text='Manage', tagName='a', linkText='Manage', x=617, y=156, width=52, height=16, isLeaf=true}
+{numericId=36, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[9]', text='My Account', tagName='a', linkText='My Account', x=684, y=156, width=77, height=16, isLeaf=true}
+
+Time: 20.060

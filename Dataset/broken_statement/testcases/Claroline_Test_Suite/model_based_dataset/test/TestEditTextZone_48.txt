@@ -1,0 +1,2 @@
+Assert.assertTrue(driver.findElement(By.xpath("//*[@id=\"claroBody\"]/div[2]/div/div/div")).getText().equals(
+"The changes have been carried out correctly\n" + "textzone_top.inc.html"));

@@ -1,0 +1,8 @@
+The most similar element's numericId: 35. Because they share the most similar attributes: class, xpath, text.
+Repaired statement: 
+
+// Update the locator
+String message = driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]")).getText();
+
+// Update the assertion
+assertEquals("You have just created the course website : CS213", message);

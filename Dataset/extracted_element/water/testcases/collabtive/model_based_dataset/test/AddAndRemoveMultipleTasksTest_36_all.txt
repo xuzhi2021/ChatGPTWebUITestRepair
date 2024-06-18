@@ -1,0 +1,13 @@
+Target element: {numericId=51, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]', text='My tasks', tagName='a', linkText='My tasks', x=143, y=85, width=57, height=45, isLeaf=true}
+Candidate elements: {numericId=313, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[4]/div[1]/h2[1]/a[1]', text='My tasks', tagName='a', linkText='My tasks', x=81, y=349, width=62, height=16, isLeaf=false}
+{numericId=8, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1]', text='', tagName='a', linkText='', x=58, y=11, width=0, height=0, isLeaf=false}
+{numericId=15, id='', name='', class='active', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]', text='Desktop', tagName='a', linkText='Desktop', x=797, y=19, width=32, height=32, isLeaf=true}
+{numericId=18, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]', text='My account', tagName='a', linkText='My account', x=835, y=19, width=32, height=32, isLeaf=true}
+{numericId=21, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]', text='Administration', tagName='a', linkText='Administration', x=873, y=19, width=32, height=32, isLeaf=true}
+{numericId=27, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/ul[1]/li[1]/a[1]', text='Project administration', tagName='a', linkText='Project administration', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=30, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/ul[1]/li[2]/a[1]', text='User administration', tagName='a', linkText='User administration', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=33, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/ul[1]/li[3]/a[1]', text='System administration', tagName='a', linkText='System administration', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=36, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]', text='Logout', tagName='a', linkText='Logout', x=911, y=19, width=32, height=32, isLeaf=true}
+{numericId=42, id='', name='', class='active', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]', text='Desktop', tagName='a', linkText='Desktop', x=19, y=85, width=57, height=45, isLeaf=true}
+
+Time: 31.628

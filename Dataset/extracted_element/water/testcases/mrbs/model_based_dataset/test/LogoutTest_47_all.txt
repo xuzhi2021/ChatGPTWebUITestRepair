@@ -1,0 +1,13 @@
+Target element: {numericId=97, id='', name='', class='', xpath='/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/form[1]/input[3]', text=' Log in ', tagName='input', linkText='', x=936, y=47, width=60, height=21, isLeaf=true}
+Candidate elements: {numericId=16, id='datepicker', name='', class='date hasDatepicker', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/span[1]/input[1]', text='2023-11-02', tagName='input', linkText='', x=370, y=17, width=95, height=21, isLeaf=true}
+{numericId=17, id='datepicker_alt', name='_alt', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/span[1]/input[2]', text='2023-11-2', tagName='input', linkText='', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=18, id='datepicker_alt_day', name='day', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/span[1]/input[3]', text='2', tagName='input', linkText='', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=19, id='datepicker_alt_month', name='month', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/span[1]/input[4]', text='11', tagName='input', linkText='', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=20, id='datepicker_alt_year', name='year', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/span[1]/input[5]', text='2023', tagName='input', linkText='', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=22, id='', name='area', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/input[1]', text='553', tagName='input', linkText='', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=23, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/input[2]', text='goto', tagName='input', linkText='', x=469, y=17, width=42, height=21, isLeaf=true}
+{numericId=34, id='', name='search_str', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/form[1]/div[1]/input[1]', text='', tagName='input', linkText='', x=803, y=17, width=80, height=21, isLeaf=true}
+{numericId=35, id='', name='day', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/form[1]/div[1]/input[2]', text='2', tagName='input', linkText='', x=0, y=0, width=0, height=0, isLeaf=true}
+{numericId=36, id='', name='month', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/form[1]/div[1]/input[3]', text='11', tagName='input', linkText='', x=0, y=0, width=0, height=0, isLeaf=true}
+
+Time: 22.411

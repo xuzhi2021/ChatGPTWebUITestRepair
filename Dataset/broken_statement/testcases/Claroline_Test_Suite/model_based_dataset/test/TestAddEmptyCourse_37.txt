@@ -1,0 +1,1 @@
+String message2 = driver.findElement(By.xpath("//*[@id='claroBody']/div[2]/div/span[2]")).getText();

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/autorepair/match/sftm2023/net6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

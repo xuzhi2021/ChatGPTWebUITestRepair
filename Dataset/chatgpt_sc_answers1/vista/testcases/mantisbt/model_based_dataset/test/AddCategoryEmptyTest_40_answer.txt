@@ -1,0 +1,2 @@
+The most similar element's numericId: 108. Because they share the most similar attributes: xpath, tagName.
+Repaired statement: driver.findElement(By.xpath("/html[1]/body[1]/table[3]/tbody[1]/tr[1]/td[1]/address[1]/a[@href='manage_user_page.php']")).click();

@@ -1,0 +1,2 @@
+The most similar element's numericId: 2. Because they share the most similar attributes: id, xpath, tagName, text.
+Repaired statement: driver.findElement(By.id("topBanner")).findElement(By.cssSelector("button[type=\"submit\"]")).click();

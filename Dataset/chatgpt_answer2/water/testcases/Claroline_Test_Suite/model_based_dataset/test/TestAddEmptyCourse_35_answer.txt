@@ -1,0 +1,8 @@
+The most similar element's numericId: 36. Because they share the most similar attributes: class='backlogFailure', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/span[1]', text='Course title needed', tagName='span'.
+Repaired statement: 
+
+String message = driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/span[1]")).getText();
+
+Explanation: 
+- The repaired statement updates the XPath locator to match the selected element's XPath ("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/span[1]").
+- The repaired statement retrieves the text of the selected element using the getText() method.

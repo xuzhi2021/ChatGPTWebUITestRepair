@@ -1,0 +1,13 @@
+Target element: {numericId=56, id='', name='', class='claroDialogMsg msgError', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]', text='This username is already taken', tagName='div', linkText='', x=30, y=179, width=886, height=18, isLeaf=true}
+Candidate elements: {numericId=2, id='topBanner', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]', text='Claroline Lin Dan : My desktop | My User Account | My messages | Platform administration Logout Claroline > Administration > Create a new user', tagName='div', linkText='', x=0, y=0, width=1034, height=97, isLeaf=false}
+{numericId=3, id='platformBanner', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]', text='Claroline', tagName='div', linkText='', x=0, y=0, width=1034, height=59, isLeaf=false}
+{numericId=4, id='campusBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]', text='Claroline', tagName='div', linkText='', x=15, y=10, width=129, height=39, isLeaf=false}
+{numericId=7, id='campusBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]', text='', tagName='div', linkText='', x=1009, y=10, width=10, height=10, isLeaf=true}
+{numericId=9, id='', name='', class='spacer', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]', text='', tagName='div', linkText='', x=15, y=49, width=1004, height=0, isLeaf=true}
+{numericId=10, id='userBanner', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]', text='Lin Dan : My desktop | My User Account | My messages | Platform administration Logout', tagName='div', linkText='', x=0, y=59, width=1034, height=19, isLeaf=false}
+{numericId=11, id='userBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]', text='Lin Dan : My desktop | My User Account | My messages | Platform administration', tagName='div', linkText='', x=15, y=61, width=463, height=15, isLeaf=false}
+{numericId=18, id='userBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]', text='Logout', tagName='div', linkText='', x=980, y=61, width=39, height=15, isLeaf=false}
+{numericId=21, id='', name='', class='spacer', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[3]', text='', tagName='div', linkText='', x=15, y=76, width=1004, height=0, isLeaf=true}
+{numericId=22, id='breadcrumbLine', name='', class='breadcrumbTrails spacer', xpath='/html[1]/body[1]/div[1]/div[1]/div[3]', text='Claroline > Administration > Create a new user', tagName='div', linkText='', x=0, y=78, width=1034, height=19, isLeaf=false}
+
+Time: 31.681

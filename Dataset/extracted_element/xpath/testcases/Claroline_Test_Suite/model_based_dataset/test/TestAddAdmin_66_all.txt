@@ -1,0 +1,13 @@
+Target element: {numericId=56, id='', name='', class='claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]', text='The new user has been sucessfully created', tagName='div', linkText='', x=30, y=179, width=798, height=18, isLeaf=true}
+Candidate elements: {numericId=11, id='userBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]', text='Lin Dan : My desktop | My User Account | My messages | Platform administration', tagName='div', linkText='', x=15, y=61, width=463, height=15, isLeaf=false}
+{numericId=39, id='', name='', class='claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]', text='The new user has been sucessfully created', tagName='div', linkText='', x=40, y=158, width=893, height=18, isLeaf=true}
+{numericId=55, id='platformManager', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]', text='Administrator for Claroline : Lin Dan Phone : 7788814476', tagName='div', linkText='', x=826, y=318, width=193, height=28, isLeaf=false}
+{numericId=4, id='campusBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]', text='Claroline', tagName='div', linkText='', x=15, y=10, width=129, height=39, isLeaf=false}
+{numericId=18, id='userBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]', text='Logout', tagName='div', linkText='', x=980, y=61, width=39, height=15, isLeaf=false}
+{numericId=24, id='', name='', class='breadcrumbTrails breadCrumbs', xpath='/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]', text='Claroline > Administration > Create a new user', tagName='div', linkText='', x=15, y=80, width=286, height=15, isLeaf=false}
+{numericId=40, id='', name='', class='claroDialogMsg msgWarning', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]', text='No mail sent to user', tagName='div', linkText='', x=40, y=176, width=893, height=18, isLeaf=true}
+{numericId=59, id='poweredBy', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]', text='Powered by Claroline © 2001 - 2011', tagName='div', linkText='', x=15, y=346, width=1004, height=14, isLeaf=false}
+{numericId=7, id='campusBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]', text='', tagName='div', linkText='', x=1009, y=10, width=10, height=10, isLeaf=true}
+{numericId=42, id='', name='', class=' claroCmd', xpath='/html[1]/body[1]/div[1]/div[2]/ul[1]/li[1]', text='Register this user to a course', tagName='li', linkText='', x=55, y=215, width=964, height=15, isLeaf=false}
+
+Time: 17.523

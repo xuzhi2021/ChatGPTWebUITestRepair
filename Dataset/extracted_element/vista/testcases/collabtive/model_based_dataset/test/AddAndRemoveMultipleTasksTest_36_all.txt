@@ -1,0 +1,13 @@
+Target element: {numericId=51, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/div[2]/div[1]/ul[1]/li[3]/a[1]', text='My tasks', tagName='a', linkText='My tasks', x=143, y=85, width=57, height=45, isLeaf=true}
+Candidate elements: {numericId=39, id='', name='', class='tabswrapper tabs', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]', text='Desktop', tagName='div', linkText='', x=19, y=70, width=980, height=60, isLeaf=false}
+{numericId=546, id='content-right', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[3]', text='Search My projects Please choose Project Online', tagName='div', linkText='', x=779, y=130, width=220, height=197, isLeaf=false}
+{numericId=549, id='searchtoggle', name='', class='win-up', xpath='/html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/h2[1]/a[1]', text='Search', tagName='a', linkText='Search', x=797, y=153, width=184, height=16, isLeaf=true}
+{numericId=561, id='quickfindertoggle', name='', class='win-up', xpath='/html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/h2[1]/a[1]', text='My projects', tagName='a', linkText='My projects', x=797, y=220, width=184, height=16, isLeaf=true}
+{numericId=40, id='', name='', class='tabs desk', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/ul[1]', text='Desktop', tagName='ul', linkText='', x=19, y=85, width=58, height=45, isLeaf=false}
+{numericId=42, id='', name='', class='active', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]', text='Desktop', tagName='a', linkText='Desktop', x=19, y=85, width=57, height=45, isLeaf=true}
+{numericId=504, id='', name='', class='c', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[4]/div[2]/div[2]/table[1]/thead[1]/tr[1]/th[3]', text='Project', tagName='th', linkText='', x=312, y=376, width=197, height=37, isLeaf=true}
+{numericId=503, id='', name='', class='b', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[4]/div[2]/div[2]/table[1]/thead[1]/tr[1]/th[2]', text='Task', tagName='th', linkText='', x=75, y=376, width=237, height=37, isLeaf=true}
+{numericId=505, id='', name='', class='d', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[4]/div[2]/div[2]/table[1]/thead[1]/tr[1]/th[4]', text='Days', tagName='th', linkText='', x=509, y=376, width=183, height=37, isLeaf=true}
+{numericId=267, id='', name='', class='d', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[2]/table[1]/thead[1]/tr[1]/th[4]', text='Days', tagName='th', linkText='', x=509, y=224, width=183, height=37, isLeaf=true}
+
+Time: 25.632

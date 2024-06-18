@@ -1,0 +1,9 @@
+The most similar element's numericId: 43. Because they share the most similar attributes: class, xpath, text.
+Repaired statement: 
+
+```java
+String expectedText = "The changes have been carried out correctly\n" + "textzone_top.inc.html";
+WebElement element = driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"));
+String actualText = element.getText();
+Assert.assertEquals(actualText, expectedText);
+```

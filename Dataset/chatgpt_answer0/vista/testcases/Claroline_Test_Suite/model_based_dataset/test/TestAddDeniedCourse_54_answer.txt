@@ -1,0 +1,11 @@
+The most similar element's numericId: 35. Because they share the most similar attributes: class, xpath, text, tagName, x, y, width, height.
+Repaired statement: Assert.assertEquals(driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]")).getText(),
+"You have just created the course website : 225");
+
+Updated locator: By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]")
+
+Updated assertion text: "You have just created the course website : 225"
+
+Result of repaired statement:
+Assert.assertEquals(driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]")).getText(),
+"You have just created the course website : 225");

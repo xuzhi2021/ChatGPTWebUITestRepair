@@ -1,0 +1,11 @@
+The most similar element's numericId: 68. Because they share the most similar attributes: class, xpath, text.
+Repaired statement: 
+Assert.assertEquals(driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]")).getText(), "Exercise added");
+
+Explanation:
+- The locator of the selected element is "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]" from the element {numericId=68, id='', name='', class='claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]', text='Exercise added', tagName='div', linkText='', x=40, y=211, width=893, height=18, isLeaf=true}.
+- The outdated assertion is "//*[@id=\"courseRightContent\"]/div[2]/div")).getText()".
+- The updated assertion checks if the text of the selected element is equal to "Exercise added".
+
+Repaired statement:
+Assert.assertEquals(driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]")).getText(), "Exercise added");

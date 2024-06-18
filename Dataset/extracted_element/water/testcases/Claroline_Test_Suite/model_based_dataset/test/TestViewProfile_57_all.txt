@@ -1,0 +1,13 @@
+Target element: {numericId=57, id='', name='', class='toolTitle subTitle', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/span[1]', text='All profiles', tagName='span', linkText='', x=15, y=163, width=90, height=15, isLeaf=true}
+Candidate elements: {numericId=41, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/h3[1]/small[1]', text='All profiles', tagName='small', linkText='', x=30, y=143, width=62, height=14, isLeaf=true}
+{numericId=5, id='siteName', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/span[1]', text='Claroline', tagName='span', linkText='', x=15, y=24, width=129, height=17, isLeaf=false}
+{numericId=8, id='institution', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/span[1]', text='', tagName='span', linkText='', x=997, y=15, width=0, height=0, isLeaf=true}
+{numericId=12, id='userName', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/span[1]', text='Lin Dan :', tagName='span', linkText='', x=15, y=61, width=58, height=15, isLeaf=true}
+{numericId=13, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/span[2]', text='My desktop | My User Account | My messages | Platform administration', tagName='span', linkText='', x=73, y=61, width=404, height=15, isLeaf=false}
+{numericId=19, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/span[1]', text='Logout', tagName='span', linkText='', x=963, y=61, width=39, height=15, isLeaf=false}
+{numericId=56, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/a[1]/span[1]', text='Access allowed', tagName='span', linkText='', x=181, y=190, width=49, height=29, isLeaf=true}
+{numericId=60, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[3]/a[1]/span[1]', text='Access allowed', tagName='span', linkText='', x=293, y=190, width=49, height=29, isLeaf=true}
+{numericId=64, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[4]/a[1]/span[1]', text='Access allowed', tagName='span', linkText='', x=405, y=190, width=49, height=29, isLeaf=true}
+{numericId=68, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[5]/a[1]/span[1]', text='Edition allowed', tagName='span', linkText='', x=518, y=190, width=48, height=29, isLeaf=true}
+
+Time: 45.966

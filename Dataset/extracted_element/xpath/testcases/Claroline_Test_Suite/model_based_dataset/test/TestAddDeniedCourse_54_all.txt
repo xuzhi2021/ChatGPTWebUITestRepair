@@ -1,0 +1,13 @@
+Target element: {numericId=52, id='', name='', class='claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]', text='You have just created the course website : 225', tagName='div', linkText='', x=30, y=179, width=798, height=18, isLeaf=false}
+Candidate elements: {numericId=11, id='userBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]', text='Lin Dan : My desktop | My User Account | My messages | Platform administration', tagName='div', linkText='', x=15, y=61, width=463, height=15, isLeaf=false}
+{numericId=35, id='', name='', class='claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]', text='You have just created the course website : 225', tagName='div', linkText='', x=40, y=158, width=893, height=18, isLeaf=false}
+{numericId=44, id='platformManager', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]', text='Administrator for Claroline : Lin Dan Phone : 7788814476', tagName='div', linkText='', x=826, y=255, width=193, height=28, isLeaf=false}
+{numericId=4, id='campusBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]', text='Claroline', tagName='div', linkText='', x=15, y=10, width=129, height=39, isLeaf=false}
+{numericId=18, id='userBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]', text='Logout', tagName='div', linkText='', x=980, y=61, width=39, height=15, isLeaf=false}
+{numericId=24, id='', name='', class='breadcrumbTrails breadCrumbs', xpath='/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]', text='Claroline', tagName='div', linkText='', x=15, y=80, width=65, height=15, isLeaf=false}
+{numericId=48, id='poweredBy', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]', text='Powered by Claroline © 2001 - 2011', tagName='div', linkText='', x=15, y=283, width=1004, height=14, isLeaf=false}
+{numericId=7, id='campusBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]', text='', tagName='div', linkText='', x=1009, y=10, width=10, height=10, isLeaf=true}
+{numericId=45, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/a[1]', text='Lin Dan', tagName='a', linkText='Lin Dan', x=975, y=255, width=44, height=14, isLeaf=true}
+{numericId=34, id='', name='', class='claroDialogBox boxSuccess claroDialogMsg msgSuccess', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]', text='You have just created the course website : 225', tagName='div', linkText='', x=15, y=152, width=1004, height=30, isLeaf=false}
+
+Time: 17.893

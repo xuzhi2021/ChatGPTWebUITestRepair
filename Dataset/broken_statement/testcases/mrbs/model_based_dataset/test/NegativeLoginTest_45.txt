@@ -1,0 +1,1 @@
+Assert.assertEquals(driver.findElement(By.xpath("/html/body/p[1]")).getText(), "Unknown user");

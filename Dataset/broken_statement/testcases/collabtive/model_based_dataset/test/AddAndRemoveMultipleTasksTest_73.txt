@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("//*[@id=\"content-left-in\"]/div/div[4]/div[1]/div/form/fieldset/div[6]/button[1]")).click();

@@ -1,0 +1,13 @@
+Target element: {numericId=99, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[1]/td[5]/a[1]/img[1]', text='', tagName='img', linkText='', x=948, y=252, width=16, height=16, isLeaf=true}
+Candidate elements: {numericId=83, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[1]/td[5]/a[1]/img[1]', text='', tagName='img', linkText='', x=948, y=225, width=16, height=16, isLeaf=true}
+{numericId=28, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]/img[1]', text='', tagName='img', linkText='', x=15, y=81, width=11, height=11, isLeaf=true}
+{numericId=43, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/a[1]/img[1]', text='', tagName='img', linkText='', x=18, y=150, width=18, height=16, isLeaf=true}
+{numericId=77, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[1]/td[4]/a[1]/img[1]', text='', tagName='img', linkText='', x=770, y=225, width=16, height=16, isLeaf=true}
+{numericId=78, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[1]/td[4]/a[1]/img[2]', text='', tagName='img', linkText='', x=796, y=225, width=16, height=16, isLeaf=true}
+{numericId=79, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[1]/td[4]/a[1]/img[3]', text='', tagName='img', linkText='', x=816, y=225, width=16, height=16, isLeaf=true}
+{numericId=80, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[1]/td[4]/a[1]/img[4]', text='', tagName='img', linkText='', x=835, y=225, width=16, height=16, isLeaf=true}
+{numericId=95, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[2]/td[4]/a[1]/img[1]', text='', tagName='img', linkText='', x=770, y=262, width=16, height=16, isLeaf=true}
+{numericId=96, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[2]/td[4]/a[1]/img[2]', text='', tagName='img', linkText='', x=796, y=262, width=16, height=16, isLeaf=true}
+{numericId=97, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/table[2]/tbody[1]/tr[2]/td[4]/a[1]/img[3]', text='', tagName='img', linkText='', x=816, y=262, width=16, height=16, isLeaf=true}
+
+Time: 51.138

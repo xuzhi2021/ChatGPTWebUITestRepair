@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("//*[@id=\"form_member\"]/div/form/fieldset/div[10]/div/button")).click();

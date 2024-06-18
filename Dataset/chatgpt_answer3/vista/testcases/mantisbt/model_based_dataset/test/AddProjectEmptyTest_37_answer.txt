@@ -1,0 +1,2 @@
+The most similar element's numericId: 26. Because they share the most similar attributes: xpath, text.
+Repaired statement: driver.findElement(By.xpath("//td[contains(text(),'Manage')]")).click();

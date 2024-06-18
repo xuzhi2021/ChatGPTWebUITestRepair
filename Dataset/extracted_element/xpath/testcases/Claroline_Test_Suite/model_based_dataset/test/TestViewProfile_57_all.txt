@@ -1,0 +1,13 @@
+Target element: {numericId=57, id='', name='', class='toolTitle subTitle', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/span[1]', text='All profiles', tagName='span', linkText='', x=15, y=163, width=90, height=15, isLeaf=true}
+Candidate elements: {numericId=4, id='campusBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]', text='Claroline', tagName='div', linkText='', x=15, y=10, width=129, height=39, isLeaf=false}
+{numericId=7, id='campusBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]', text='', tagName='div', linkText='', x=992, y=10, width=10, height=10, isLeaf=true}
+{numericId=11, id='userBannerLeft', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]', text='Lin Dan : My desktop | My User Account | My messages | Platform administration', tagName='div', linkText='', x=15, y=61, width=463, height=15, isLeaf=false}
+{numericId=24, id='', name='', class='breadcrumbTrails breadCrumbs', xpath='/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]', text='Claroline > Administration > Course profile list > Rights', tagName='div', linkText='', x=15, y=80, width=335, height=15, isLeaf=false}
+{numericId=41, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/h3[1]/small[1]', text='All profiles', tagName='small', linkText='', x=30, y=143, width=62, height=14, isLeaf=true}
+{numericId=272, id='platformManager', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]', text='Administrator for Claroline : Lin Dan Phone : 7788814476', tagName='div', linkText='', x=809, y=672, width=193, height=28, isLeaf=false}
+{numericId=276, id='poweredBy', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]', text='Powered by Claroline © 2001 - 2011', tagName='div', linkText='', x=15, y=700, width=987, height=14, isLeaf=false}
+{numericId=12, id='userName', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/span[1]', text='Lin Dan :', tagName='span', linkText='', x=15, y=61, width=58, height=15, isLeaf=true}
+{numericId=18, id='userBannerRight', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]', text='Logout', tagName='div', linkText='', x=963, y=61, width=39, height=15, isLeaf=false}
+{numericId=5, id='siteName', name='', class='', xpath='/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/span[1]', text='Claroline', tagName='span', linkText='', x=15, y=24, width=129, height=17, isLeaf=false}
+
+Time: 46.117

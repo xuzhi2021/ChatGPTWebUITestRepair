@@ -1,0 +1,13 @@
+Target element: {numericId=30, id='', name='submit', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[1]', text='Enter', tagName='input', linkText='', x=66, y=183, width=48, height=21, isLeaf=true}
+Candidate elements: {numericId=46, id='', name='firstname', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[2]', text='Lin', tagName='input', linkText='', x=245, y=183, width=282, height=21, isLeaf=true}
+{numericId=49, id='', name='lastname', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[3]', text='Dan', tagName='input', linkText='', x=245, y=204, width=282, height=21, isLeaf=true}
+{numericId=58, id='', name='home', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[4]', text='sustech', tagName='input', linkText='', x=245, y=334, width=282, height=21, isLeaf=true}
+{numericId=61, id='', name='mobile', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[5]', text='24524344', tagName='input', linkText='', x=245, y=355, width=282, height=21, isLeaf=true}
+{numericId=64, id='', name='work', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[6]', text='', tagName='input', linkText='', x=245, y=376, width=282, height=21, isLeaf=true}
+{numericId=70, id='', name='email', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[7]', text='', tagName='input', linkText='', x=245, y=425, width=282, height=21, isLeaf=true}
+{numericId=73, id='', name='email2', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[8]', text='', tagName='input', linkText='', x=245, y=446, width=282, height=21, isLeaf=true}
+{numericId=123, id='', name='byear', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[9]', text='lind', tagName='input', linkText='', x=380, y=467, width=65, height=21, isLeaf=true}
+{numericId=142, id='', name='phone2', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[10]', text='', tagName='input', linkText='', x=245, y=630, width=282, height=21, isLeaf=true}
+{numericId=146, id='', name='submit', class='', xpath='/html[1]/body[1]/div[1]/div[4]/form[1]/input[11]', text='Enter', tagName='input', linkText='', x=119, y=679, width=48, height=21, isLeaf=true}
+
+Time: 0.248

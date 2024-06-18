@@ -1,0 +1,1 @@
+The most similar element's numericId: 25. Because they share the most similar attributes: xpath, tagName, linkText.

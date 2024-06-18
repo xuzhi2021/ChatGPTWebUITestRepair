@@ -1,0 +1,13 @@
+Target element: {numericId=30, id='', name='', class='blockHeader', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/h3[1]', text='Authentication', tagName='h3', linkText='', x=694, y=134, width=220, height=20, isLeaf=true}
+Candidate elements: {numericId=24, id='', name='', class='header', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]', text='Authentication', tagName='div', linkText='', x=799, y=93, width=220, height=20, isLeaf=true}
+{numericId=45, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/h3[1]', text='Root category', tagName='h3', linkText='', x=15, y=106, width=764, height=15, isLeaf=true}
+{numericId=46, id='', name='', class='claroTitle claroTitle4', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/h4[1]', text='Sub categories', tagName='h4', linkText='', x=15, y=138, width=764, height=15, isLeaf=true}
+{numericId=27, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/form[1]/fieldset[1]', text='User name Password', tagName='fieldset', linkText='', x=799, y=123, width=220, height=132, isLeaf=false}
+{numericId=28, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/form[1]/fieldset[1]/label[1]', text='User name', tagName='label', linkText='', x=804, y=128, width=63, height=15, isLeaf=true}
+{numericId=61, id='poweredBy', name='', class='', xpath='/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]', text='Powered by Claroline © 2001 - 2011', tagName='div', linkText='', x=15, y=381, width=1004, height=14, isLeaf=false}
+{numericId=33, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/form[1]/fieldset[1]/label[2]', text='Password', tagName='label', linkText='', x=804, y=177, width=56, height=15, isLeaf=true}
+{numericId=49, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/ul[1]/li[2]', text='Mathematics', tagName='li', linkText='', x=55, y=181, width=724, height=15, isLeaf=false}
+{numericId=51, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[2]/ul[1]/li[3]', text='Software Eng', tagName='li', linkText='', x=55, y=196, width=724, height=15, isLeaf=true}
+{numericId=39, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/p[1]', text='Lost password Create user account', tagName='p', linkText='', x=799, y=270, width=220, height=40, isLeaf=false}
+
+Time: 56.616

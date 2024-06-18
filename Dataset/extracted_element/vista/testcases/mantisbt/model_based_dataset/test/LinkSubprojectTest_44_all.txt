@@ -1,0 +1,13 @@
+Target element: {numericId=34, id='', name='', class='', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]/a[9]', text='Manage', tagName='a', linkText='Manage', x=624, y=152, width=52, height=16, isLeaf=true}
+Candidate elements: {numericId=107, id='', name='', class='', xpath='/html[1]/body[1]/table[3]/tbody[1]/tr[1]/td[1]/address[1]', text='Copyright © 2000 - 2010 MantisBT Group', tagName='address', linkText='', x=8, y=389, width=706, height=13, isLeaf=true}
+{numericId=111, id='', name='', class='', xpath='/html[1]/body[1]/table[3]/tbody[1]/tr[1]/td[2]/div[1]', text='', tagName='div', linkText='', x=722, y=389, width=304, height=41, isLeaf=false}
+{numericId=106, id='', name='', class='', xpath='/html[1]/body[1]/table[3]/tbody[1]/tr[1]/td[1]', text='Copyright © 2000 - 2010 MantisBT Group webmaster@example.com', tagName='td', linkText='', x=4, y=385, width=714, height=49, isLeaf=false}
+{numericId=110, id='', name='', class='', xpath='/html[1]/body[1]/table[3]/tbody[1]/tr[1]/td[2]', text='', tagName='td', linkText='', x=718, y=385, width=312, height=49, isLeaf=false}
+{numericId=87, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/table[1]/tbody[1]/tr[3]/td[2]', text='', tagName='td', linkText='', x=519, y=261, width=506, height=36, isLeaf=true}
+{numericId=10, id='', name='', class='login-info-middle italic', xpath='/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]', text='2023-11-14 23:48 UTC', tagName='td', linkText='', x=347, y=116, width=339, height=29, isLeaf=false}
+{numericId=12, id='', name='', class='login-info-right', xpath='/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]', text='Project: All Projects Project001 New Subject1 SubProject SubProject001', tagName='td', linkText='', x=689, y=116, width=339, height=29, isLeaf=false}
+{numericId=4, id='', name='', class='hide', xpath='/html[1]/body[1]/table[1]', text='Logged in as: administrator (Demo User Real - administrator) 2023-11-14 23:48 UTC Project: All Projects Project001 New Subject1 SubProject SubProject001', tagName='table', linkText='', x=4, y=114, width=1026, height=33, isLeaf=false}
+{numericId=7, id='', name='', class='login-info-left', xpath='/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]', text='Logged in as: administrator (Demo User Real - administrator)', tagName='td', linkText='', x=6, y=116, width=339, height=29, isLeaf=false}
+{numericId=26, id='', name='', class='menu', xpath='/html[1]/body[1]/table[2]/tbody[1]/tr[1]/td[1]', text='Main | My View | View Issues | Report Issue | Change Log | Roadmap | Summary | Manage | My Account | Logout', tagName='td', linkText='', x=4, y=147, width=879, height=28, isLeaf=false}
+
+Time: 33.903

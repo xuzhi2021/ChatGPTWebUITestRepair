@@ -1,0 +1,12 @@
+Target element: {numericId=96, id='', name='', class='', xpath='/html[1]/body[1]/p[1]', text='Unknown user', tagName='p', linkText='', x=8, y=90, width=1018, height=15, isLeaf=true}
+Candidate elements: {numericId=47, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/p[1]', text='Unknown user', tagName='p', linkText='', x=26, y=69, width=982, height=15, isLeaf=true}
+{numericId=49, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/fieldset[1]', text='Please log in Name: Password:', tagName='fieldset', linkText='', x=26, y=110, width=982, height=132, isLeaf=false}
+{numericId=54, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/fieldset[1]/div[2]', text='Password:', tagName='div', linkText='', x=26, y=182, width=982, height=25, isLeaf=false}
+{numericId=14, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]', text='', tagName='div', linkText='', x=348, y=17, width=185, height=21, isLeaf=false}
+{numericId=22, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/form[1]/div[1]/input[1]', text='goto', tagName='input', linkText='', x=469, y=17, width=42, height=21, isLeaf=true}
+{numericId=12, id='Form1', name='', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]', text='', tagName='td', linkText='', x=342, y=0, width=198, height=56, isLeaf=false}
+{numericId=51, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/fieldset[1]/div[1]', text='Name:', tagName='div', linkText='', x=26, y=157, width=982, height=25, isLeaf=false}
+{numericId=0, id='', name='', class='admin js', xpath='/html[1]/body[1]', text='Your Company Meeting Room Booking System Help Rooms Report Search: Unknown user Unknown user Please log in Name: Password:', tagName='body', linkText='', x=0, y=0, width=1034, height=242, isLeaf=false}
+{numericId=46, id='contents', name='', class='', xpath='/html[1]/body[1]/div[2]', text='Unknown user Please log in Name: Password:', tagName='div', linkText='', x=0, y=69, width=1034, height=173, isLeaf=false}
+
+Time: 21.843

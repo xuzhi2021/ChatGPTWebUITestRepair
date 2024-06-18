@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("(//INPUT[@type='text'])[11]")).sendKeys(list.get(i).getYear());

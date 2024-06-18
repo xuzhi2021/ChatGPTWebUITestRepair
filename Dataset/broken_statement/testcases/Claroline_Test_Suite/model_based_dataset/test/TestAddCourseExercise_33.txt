@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("//*[@id=\"dekstopLeftSidebar\"]/div/div/div[2]/dl/dt[1]/span/a")).click();

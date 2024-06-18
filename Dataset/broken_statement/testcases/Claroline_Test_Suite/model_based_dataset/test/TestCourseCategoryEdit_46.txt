@@ -1,0 +1,2 @@
+Assert.assertEquals(driver.findElement(By.xpath("//*[@id=\"claroBody\"]/div[2]/div")).getText(), //*[@id=\"claroBody\"]/div[2]/div")).getText(),
+"Category modified");

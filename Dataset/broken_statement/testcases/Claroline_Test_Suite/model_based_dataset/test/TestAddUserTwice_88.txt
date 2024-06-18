@@ -1,0 +1,1 @@
+assertEquals(driver.findElement(By.xpath("//div[@id='claroBody']/div[2]/div")).getText(), "New users will receive an e-mail with their username and password");

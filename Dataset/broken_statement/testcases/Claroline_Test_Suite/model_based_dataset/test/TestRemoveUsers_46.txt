@@ -1,0 +1,1 @@
+assertEquals(driver.findElement(By.xpath("//div[@id='claroBody']/div[2]/div")).getText(), "Deletion of the user was done sucessfully");

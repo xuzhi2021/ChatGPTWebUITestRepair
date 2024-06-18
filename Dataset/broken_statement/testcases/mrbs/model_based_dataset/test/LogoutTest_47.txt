@@ -1,0 +1,1 @@
+Assert.assertEquals(driver.findElement(By.xpath("/html/body/table[1]/tbody/tr/td/table/tbody/tr/td[7]/form/input[3]")).getAttribute("value"), " Log in ");

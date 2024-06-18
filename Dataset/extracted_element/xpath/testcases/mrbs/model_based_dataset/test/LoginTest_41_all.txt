@@ -1,0 +1,13 @@
+Target element: {numericId=112, id='', name='', class='', xpath='/html[1]/body[1]/form[1]/input[3]', text=' Log in ', tagName='input', linkText='', x=8, y=201, width=60, height=21, isLeaf=true}
+Candidate elements: {numericId=3, id='banner', name='', class='', xpath='/html[1]/body[1]/div[1]/table[1]', text='Your Company Meeting Room Booking System Help Rooms Report Search: Unknown user', tagName='table', linkText='', x=0, y=0, width=1034, height=56, isLeaf=false}
+{numericId=47, id='logon', name='', class='form_general', xpath='/html[1]/body[1]/div[2]/form[1]', text='Please log in Name: Password:', tagName='form', linkText='', x=26, y=82, width=982, height=132, isLeaf=false}
+{numericId=2, id='banner', name='', class='screenonly', xpath='/html[1]/body[1]/div[1]', text='Your Company Meeting Room Booking System Help Rooms Report Search: Unknown user', tagName='div', linkText='', x=0, y=0, width=1034, height=56, isLeaf=false}
+{numericId=46, id='contents', name='', class='form_general', xpath='/html[1]/body[1]/div[2]', text='Please log in Name: Password:', tagName='div', linkText='', x=0, y=82, width=1034, height=132, isLeaf=false}
+{numericId=48, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/fieldset[1]', text='Please log in Name: Password:', tagName='fieldset', linkText='', x=26, y=82, width=982, height=132, isLeaf=false}
+{numericId=0, id='', name='', class='admin js', xpath='/html[1]/body[1]', text='Your Company Meeting Room Booking System Help Rooms Report Search: Unknown user Please log in Name: Password:', tagName='body', linkText='', x=0, y=0, width=1034, height=214, isLeaf=false}
+{numericId=4, id='', name='', class='', xpath='/html[1]/body[1]/div[1]/table[1]/tbody[1]', text='Your Company Meeting Room Booking System Help Rooms Report Search: Unknown user', tagName='tbody', linkText='', x=0, y=0, width=1034, height=56, isLeaf=false}
+{numericId=59, id='logon_submit', name='', class='submit', xpath='/html[1]/body[1]/div[2]/form[1]/fieldset[1]/div[3]', text='', tagName='div', linkText='', x=26, y=180, width=104, height=34, isLeaf=false}
+{numericId=50, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/fieldset[1]/div[1]', text='Name:', tagName='div', linkText='', x=26, y=129, width=982, height=25, isLeaf=false}
+{numericId=53, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/fieldset[1]/div[2]', text='Password:', tagName='div', linkText='', x=26, y=154, width=982, height=25, isLeaf=false}
+
+Time: 47.771

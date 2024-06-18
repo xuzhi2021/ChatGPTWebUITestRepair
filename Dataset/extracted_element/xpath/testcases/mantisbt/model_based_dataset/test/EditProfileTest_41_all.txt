@@ -1,0 +1,13 @@
+Target element: {numericId=57, id='', name='', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[3]/a[1]', text='Profiles', tagName='a', linkText='Profiles', x=740, y=215, width=49, height=16, isLeaf=true}
+Candidate elements: {numericId=53, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[3]/a[1]', text='Manage Columns', tagName='a', linkText='Manage Columns', x=677, y=205, width=114, height=16, isLeaf=true}
+{numericId=51, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[2]/a[1]', text='Preferences', tagName='a', linkText='Preferences', x=573, y=205, width=78, height=16, isLeaf=true}
+{numericId=55, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[4]/a[1]', text='Profiles', tagName='a', linkText='Profiles', x=818, y=205, width=49, height=16, isLeaf=true}
+{numericId=49, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[1]', text='[ My Account ]', tagName='span', linkText='', x=459, y=205, width=99, height=16, isLeaf=true}
+{numericId=52, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[3]', text='[ Manage Columns ]', tagName='span', linkText='', x=667, y=205, width=136, height=16, isLeaf=false}
+{numericId=50, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[2]', text='[ Preferences ]', tagName='span', linkText='', x=562, y=205, width=100, height=16, isLeaf=false}
+{numericId=54, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[4]', text='[ Profiles ]', tagName='span', linkText='', x=807, y=205, width=70, height=16, isLeaf=false}
+{numericId=62, id='', name='password', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[3]/td[2]/input[1]', text='', tagName='input', linkText='', x=325, y=255, width=261, height=21, isLeaf=true}
+{numericId=66, id='', name='password_confirm', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[4]/td[2]/input[1]', text='', tagName='input', linkText='', x=325, y=285, width=261, height=21, isLeaf=true}
+{numericId=70, id='', name='email', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[5]/td[2]/input[1]', text='root@localhostdemo@gmail.com', tagName='input', linkText='', x=325, y=315, width=261, height=21, isLeaf=true}
+
+Time: 9.247

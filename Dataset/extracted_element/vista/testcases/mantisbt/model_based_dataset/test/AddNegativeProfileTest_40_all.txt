@@ -1,0 +1,13 @@
+Target element: {numericId=55, id='', name='', class='', xpath='/html[1]/body[1]/div[3]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[3]/a[1]', text='Profiles', tagName='a', linkText='Profiles', x=740, y=215, width=49, height=16, isLeaf=true}
+Candidate elements: {numericId=56, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[4]/a[1]', text='Profiles', tagName='a', linkText='Profiles', x=818, y=201, width=49, height=16, isLeaf=true}
+{numericId=52, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[2]/a[1]', text='Preferences', tagName='a', linkText='Preferences', x=573, y=201, width=78, height=16, isLeaf=true}
+{numericId=54, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[3]/a[1]', text='Manage Columns', tagName='a', linkText='Manage Columns', x=677, y=201, width=114, height=16, isLeaf=true}
+{numericId=53, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[3]', text='[ Manage Columns ]', tagName='span', linkText='', x=667, y=201, width=136, height=16, isLeaf=false}
+{numericId=55, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[4]', text='[ Profiles ]', tagName='span', linkText='', x=807, y=201, width=70, height=16, isLeaf=false}
+{numericId=48, id='', name='', class='form-title', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[1]', text='Edit Account', tagName='td', linkText='', x=133, y=197, width=187, height=24, isLeaf=true}
+{numericId=49, id='', name='', class='right', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]', text='[ My Account ] [ Preferences ] [ Manage Columns ] [ Profiles ]', tagName='td', linkText='', x=321, y=197, width=560, height=24, isLeaf=false}
+{numericId=50, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[1]', text='[ My Account ]', tagName='span', linkText='', x=459, y=201, width=99, height=16, isLeaf=true}
+{numericId=78, id='', name='', class='', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[7]/td[2]', text='administrator', tagName='td', linkText='', x=321, y=367, width=560, height=24, isLeaf=true}
+{numericId=51, id='', name='', class='bracket-link', xpath='/html[1]/body[1]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[2]', text='[ Preferences ]', tagName='span', linkText='', x=562, y=201, width=100, height=16, isLeaf=false}
+
+Time: 49.187

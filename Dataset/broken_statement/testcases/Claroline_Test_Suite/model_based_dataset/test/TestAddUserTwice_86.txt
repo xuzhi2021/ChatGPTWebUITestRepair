@@ -1,0 +1,1 @@
+assertEquals(driver.findElement(By.xpath("//div[@id='claroBody']/div[2]/div")).getText(), "This username is already taken");
