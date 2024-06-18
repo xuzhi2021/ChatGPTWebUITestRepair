@@ -100,7 +100,7 @@ MRBS: [https://sourceforge.net/projects/mrbs/files/mrbs/](https://sourceforge.ne
 
 #### Test links: Links (last updated) 
 
-[10] An automated model-based approach to repair test suites of evolving web applications: [https://github.com/javariaimtiaz12/Selenium-Test-Scripts-for-Web](https://github.com/javariaimtiaz12/Selenium-Test-Scripts-for-Web) (2020-09)
+[18] An automated model-based approach to repair test suites of evolving web applications: [https://github.com/javariaimtiaz12/Selenium-Test-Scripts-for-Web](https://github.com/javariaimtiaz12/Selenium-Test-Scripts-for-Web) (2020-09)
 
-[3] Automated Fixing of Web UI Tests via Iterative Element Matching: [https://anonymous.4open.science/r/Web-UI-Dataset-9645](https://anonymous.4open.science/r/Web-UI-Dataset-9645) (2024-03)
+[28] Automated Fixing of Web UI Tests via Iterative Element Matching: [https://anonymous.4open.science/r/Web-UI-Dataset-9645](https://anonymous.4open.science/r/Web-UI-Dataset-9645) (2024-03)
 
